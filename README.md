@@ -4,5 +4,5 @@
 <a href="#"><img src="https://i.ibb.co/6tx0cvd/Linkedin.png" alt="LinkedIn" ></a>
 <a href="#"><img src="https://i.ibb.co/Yt0xStQ/image-psd.png" alt="My Portfolio" ></a>
 <br>
-<a href="https://github.com/luckdiamond0"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckdiamond0&theme=dark&hide=html,css,cmake,yara&layout=compact&langs_cont=5&bg_color=101010&hide_title=true"></a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckdiamond0&theme=dark&hide=html,css,cmake,yara&layout=compact&langs_cont=5&bg_color=101010&hide_title=true">
 </p>
